@@ -4,7 +4,7 @@ title: Личный сайт
 ---
 
 # Привет!
-
+<img src="kamenev.jpg" alt="Фото" width="200" style="border-radius: 12px;">
 Это мой персональный сайт, размещённый на GitHub Pages.
 
 ## Образование
