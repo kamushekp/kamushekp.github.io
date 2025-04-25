@@ -1,1 +1,1 @@
-# Мой сайт на GitLab Pages
+# Мой сайт на GitHub Pages
