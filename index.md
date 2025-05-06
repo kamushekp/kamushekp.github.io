@@ -32,6 +32,7 @@ Thesis: *D-Optimal experimental designs for nonparametric regression models.*
 - **CI/CD and DevOps Tools:** Docker, Kubernetes, GitLab CI/CD, Octopus, TeamCity, Git
 - **Data Engineering Tools:** Kafka, MongoDB, ChromaDB, PostgreSQL, Redis, OpenSearch
 - **Developer Tools:** PyCharm, Microsoft Visual Studio
+
 ---
 ## Work Experience
 
@@ -78,7 +79,6 @@ Feature/tech lead of a new product designed to automatically detect inappropriat
 - Supervised two student project teams.
 
 
-
 ---
 
 ## Publications
@@ -92,18 +92,15 @@ Feature/tech lead of a new product designed to automatically detect inappropriat
 
 ## Talks and Media Appearances
 
-### Workshop: "AI Agents: From Theory to Practice"
+- ### Workshop: "AI Agents: From Theory to Practice".
 International (56th) Youth School-Conference
-February 2-9, Yekaterinburg, Russia  
+February 2-9, Yekaterinburg, Russia
 
-**Abstract:**  
 A hands-on workshop on AI agent systems. We discuss the internal structure of modern AI agent systems, highlight their advantages compared to traditional large language models, and demonstrate how to build such agents and solve real-world tasks with them.
 
 [Watch the workshop](https://cloud.mail.ru/stock/gJ8cxRf1VbZ8PYo5vMc31Xzz)
 
----
-
-### Media Commentary: "What are AI Agents?"
+- ### Media Commentary: "What are AI Agents?"
 An expert commentary for Generation-ai explaining the concept of AI agents and their applications.
 
-[Read more](https://generation-ai.ru/media/aiagents)
+[Read](https://generation-ai.ru/media/aiagents)
